@@ -1,0 +1,6 @@
+module Pods_CurlyHairAI {
+  umbrella header "Pods-CurlyHairAI-umbrella.h"
+
+  export *
+  module * { export * }
+}
